@@ -1,0 +1,2 @@
+include ':app', ':NIPmodule'
+project(':NIPmodule').projectDir = new File('NIPmodule-master')

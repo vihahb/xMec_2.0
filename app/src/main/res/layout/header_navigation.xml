@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/size_150"
+    android:paddingTop="@dimen/size_8"
+    android:background="#0099E1">
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:layout_gravity="bottom"
+        android:background="#0099E1"
+        android:src="@mipmap/wave_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:paddingLeft="@dimen/size_16"
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.xtelsolution.xmec.xmec.view.widget.RoundImage
+            android:id="@+id/img_ng_avatar"
+            android:layout_width="@dimen/size_64"
+            android:layout_height="@dimen/size_64"
+            android:scaleType="centerInside"
+            android:src="@mipmap/tesst"/>
+
+        <TextView
+            android:id="@+id/tv_user_name"
+            android:paddingLeft="@dimen/size_16"
+            android:gravity="center_vertical"
+            android:textStyle="bold"
+            android:text="Tên của user"
+            android:textSize="@dimen/font_18"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ic_qr_code"
+        android:src="@mipmap/ic_qr_code"
+        android:layout_marginTop="@dimen/size_16"
+        android:layout_marginRight="@dimen/size_16"
+        android:layout_gravity="top|right"
+        android:layout_width="@dimen/size_36"
+        android:layout_height="@dimen/size_36" />
+</FrameLayout>

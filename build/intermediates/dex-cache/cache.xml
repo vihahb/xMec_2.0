@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/bd8e2e9e98b4c0eddee198ec7ce8f1e685d51d69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7424e87188332fca3d02429767ed70e2795dd76c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/86f991b5c9625e8d895d90695973ab7bd32c34a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07be177378b393f2368fded6ffc0ce480864d1b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/f59e5aed21144c0ff81627c880ba64dedeb982d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ccac0a4a8fe47220a303d8176e1afe2599a1ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/750d0cd3d41b3b4c047d8d0968e8cd702df61605/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cb4fccf1b632959c114d32d847709784a9ff31d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.5.2/de88f627af0272c398d452cf5d97637e6642df13/leakcanary-analyzer-1.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de88f627af0272c398d452cf5d97637e6642df13">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-analyzer-1.5.2_0769d32d344e363d8f1c4563801df292e4d97b4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/5ba6f426f8913f75ced0b5ad8603c9aba5d50a87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb0930c16826d809369b9c51a3eb381b164b8a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/bfb0743747607c8a53fc7871389252c4f73aa5cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4050daa44fbce1c704a774b677227b60d9eed8a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_22cb418cfe2abb01c7bdc85ab850229ad633e54c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/4257412841fec40e6c9141d7abe7a5b9e3100841/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="faff7244e5cd62f6fdf804a40ce31eb1c6751a1d">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68e7fd39fe1fc579f0bda11a4fc9c8542476514b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/726a73727d051dd317694065ad7d0ff11a85e5c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b4e91dea1b56dff70555e0572fa63a39de1c9f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/haha-2.0.3_f9cdec1d3d7a05e3b9e1d70e1c45cfd99468f937/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/Desktop/Xmec/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8bcf32c46675b6d8b87ef40edd8832c38e955a1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/c62c6836dcdd2528ab24a084986b2502f3dde14e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d5532c43207fcaae346e3ba126ad7ce8c655346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_2a229c2b9e1b1ab732ff5537582f828dd392aafd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_310f6c474c36843685b62b60f69fb5be46d366c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1aeddb8130011b5c6fd104e9960dd1baf472e4e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5.2/1adc095bf4c268eefc6813d497294e6c1daf794a/leakcanary-watcher-1.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1adc095bf4c268eefc6813d497294e6c1daf794a">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/leakcanary-watcher-1.5.2_3743cf539b88034c677e59c24a34f39c314beccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_12932e52cc9cec6c94aa2ae4c939bb7e200a8f5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c63b09fd67928ed6cd791c9c2143219ed3024d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/04405e058e252adfa4388fe57746201f9128077e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eea13e4521d2f02b0d01130708b6bbaecaa1cb2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/e82b985b309d92b570ac6844505683048b6cdd88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de829ccd59ad158ea6e1150ed8f0057103b7d3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/87e0bad2754914fcae18f47e6b11312fd8feb2ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_105568458dcb7e1dc7557568038d5d36133e65db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/9d8c7a4f1659b5e4310db786b8805ee7b9fe4cb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b3fd17b9f0af83bf360fbddc06cd3bf51b90921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/1c44234cf1f130f12a2dad3687733f615a13213b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_677c429275860d6f00ceeb0c16317ef40fdc6988/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/125139045b21c605b50d609395900d621946caee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c003f2be544b780fbfb95deed945b26a739e3cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/.android/build-cache/54bca35e4f0816d4633cf07ba3766de476045c0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9bb84f46775f91ef5f0385eec29dbae20c04a33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vivh/Desktop/Xmec/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3627db3a71e51357c72b682fcf0d37a1fbf015b2">
+        <dex dex="/home/vivh/Desktop/Xmec/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82ac3e495ffe2114217d899a848d67df040e1c44/classes.dex" />
+    </item>
+
+</items>
